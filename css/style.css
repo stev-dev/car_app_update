@@ -1,0 +1,12 @@
+body{
+	background-image: url("../images/bkgrnd-3.jpg") ;
+	color: grey;
+}
+
+h1,
+h4{
+	color: rgb(111, 111, 148);
+}
+#logo{
+	opacity: 0.3;
+}
